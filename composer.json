@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": "7.4",
+        "php": "^7.4",
         "laravel/jetstream": "v1.0.1",
         "inertiajs/inertia-laravel": "v0.2.15"
     },
@@ -20,5 +20,8 @@
               "GabrielFemi\\SleekPost\\SleekPostServiceProvider"
           ]
         }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.4"
     }
 }
