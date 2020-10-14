@@ -13,5 +13,12 @@
         "php": "7.4",
         "laravel/jetstream": "v1.0.1",
         "inertiajs/inertia-laravel": "v0.2.15"
+    },
+    "extra": {
+        "laravel": {
+          "providers": [
+              "GabrielFemi\\SleekPost\\SleekPostServiceProvider"
+          ]
+        }
     }
 }
