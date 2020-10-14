@@ -2,6 +2,7 @@
 
 namespace GabrielFemi\SleekPost;
 
+use Composer\XdebugHandler\Process;
 use Illuminate\Support\ServiceProvider;
 
 class SleekPostServiceProvider extends ServiceProvider
