@@ -1,0 +1,17 @@
+{
+    "name": "gabriela/sleek-post",
+    "description": "A package that helps people create and view posts intuitively",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Femi",
+            "email": "gabrielfemi799@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "7.4",
+        "laravel/jetstream": "v1.0.1",
+        "inertiajs/inertia-laravel": "v0.2.15"
+    }
+}
